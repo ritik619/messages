@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Used [Nest](https://github.com/nestjs/nest) framework to create a basic App that can read, write and fetch deatils from a local db following the best practices.
 
 ## Installation
 
